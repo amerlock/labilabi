@@ -2,7 +2,6 @@
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Social.Domain.Model;
-
 /// <summary>
 /// Класс группы
 /// </summary>

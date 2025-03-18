@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social.Domain", "Social.Domain\Social.Domain.csproj", "{C7918BC0-F5A0-4915-80E1-EF8B71C0AF3B}"
 EndProject
@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{210AF35D-ADF5-4D64-9149-19C8B842A246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sosial.Domain.Tests", "Sosial.Domain.Tests\Sosial.Domain.Tests.csproj", "{D4C8616B-C451-4BCB-98BA-F97E962E139D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soсial.Domain.Tests", "Sosial.Domain.Tests\Soсial.Domain.Tests.csproj", "{D4C8616B-C451-4BCB-98BA-F97E962E139D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

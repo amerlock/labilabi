@@ -1,7 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace Social.Domain.Model;
-
 /// <summary>
 /// Класс пользователь
 /// </summary>
@@ -45,14 +44,4 @@ public class Users
     /// Дата регистрации
     /// </summary>
     public int? DateOfRegistration { get; set; }
-}
-
-/// <summary>
-/// Пол пользователя
-/// </summary>
-public enum Gender
-{
-    Male,
-    Female,
-    Other
 }

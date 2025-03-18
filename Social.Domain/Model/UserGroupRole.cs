@@ -6,28 +6,22 @@ using System.Threading.Tasks;
 
 namespace Social.Domain.Model;
 /// <summary>
-/// Класс описывающий роли пользователей в группе
+/// Класс, описывающий роли пользователей в группе.
 /// </summary>
-public enum UserRole
-{
-    Admin,
-    Moderator,
-    Contributor,
-    Reader
-}
-
 public class UserGroupRole
 {
     /// <summary>
-    /// Индифинатор пользователя
+    /// Индификатор пользователя.
     /// </summary>
     public int UserId { get; set; }
+
     /// <summary>
-    /// Индифинатор группы
+    /// Индификатор группы.
     /// </summary>
     public int GroupId { get; set; }
+
     /// <summary>
-    /// Роль пользователя в группе
+    /// Роль пользователя в группе.
     /// </summary>
     public UserRole Role { get; set; }
 }

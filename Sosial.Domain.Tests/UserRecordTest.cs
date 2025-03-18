@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sosial.Domain.Tests;
+namespace Social.Domain.Tests;
 public class UserRecordTest
 {
     /// <summary>

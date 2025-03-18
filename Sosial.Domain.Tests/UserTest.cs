@@ -1,7 +1,7 @@
 ﻿using Social.Domain.Model;
 using Social.Domain.Services.InMemory;
 
-namespace Sosial.Domain.Tests;
+namespace Social.Domain.Tests;
 
 /// <summary>
 /// Тесты для UserInMemoryRepository
